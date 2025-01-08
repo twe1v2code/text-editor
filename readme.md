@@ -1,0 +1,1 @@
+simple console text editor
